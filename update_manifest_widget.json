@@ -1,7 +1,8 @@
 {
-  "version": "1.02",
+  "version": "1.03",
   "artifact_type": "installer",
-  "download_url": "https://github.com/moonsugugu/school-messenger-file-organizer-downloads/releases/download/v1.02/DesktopOrganizerWidget_Setup.exe",
-  "release_url": "https://github.com/moonsugugu/school-messenger-file-organizer-downloads/releases/tag/v1.02",
-  "notes": "딸깍정리 위젯 v1.02"
+  "download_url": "https://github.com/moonsugugu/school-messenger-file-organizer-downloads/releases/download/v1.03/DesktopOrganizerWidget_Setup.exe",
+  "release_url": "https://github.com/moonsugugu/school-messenger-file-organizer-downloads/releases/tag/v1.03",
+  "sha256": "33c711f6dc41464915d6ec6ae9dce2de442b80424ac81e03677e96db99abca53",
+  "notes": "딸깍정리 위젯 v1.03 · 정리함 폴더 아이콘 개선"
 }
