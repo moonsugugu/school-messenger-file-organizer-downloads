@@ -3,6 +3,6 @@
   "artifact_type": "installer",
   "download_url": "https://github.com/moonsugugu/school-messenger-file-organizer-downloads/releases/download/v1.05/DesktopOrganizerWidget_Setup.exe",
   "release_url": "https://github.com/moonsugugu/school-messenger-file-organizer-downloads/releases/tag/v1.05",
-  "sha256": "429f67526d29d29b2f860bbE47f9c8bf60132ff269e17743e76f31ea05f4ff42",
+  "sha256": "429f67526d29d29b2f860bbe47f9c8bf60132ff269e17743e76f31ea05f4ff42",
   "notes": "딸깍정리 위젯 v1.05 · 기존 정리함에도 문수네집 각인 아이콘 자동 적용"
 }
