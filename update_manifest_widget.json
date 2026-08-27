@@ -1,8 +1,8 @@
 {
-  "version": "1.05",
+  "version": "1.06",
   "artifact_type": "installer",
-  "download_url": "https://github.com/moonsugugu/school-messenger-file-organizer-downloads/releases/download/v1.05/DesktopOrganizerWidget_Setup.exe",
-  "release_url": "https://github.com/moonsugugu/school-messenger-file-organizer-downloads/releases/tag/v1.05",
-  "sha256": "429f67526d29d29b2f860bbe47f9c8bf60132ff269e17743e76f31ea05f4ff42",
-  "notes": "딸깍정리 위젯 v1.05 · 기존 정리함에도 문수네집 각인 아이콘 자동 적용"
+  "download_url": "https://github.com/moonsugugu/school-messenger-file-organizer-downloads/releases/download/v1.06/DesktopOrganizerWidget_Setup.exe",
+  "release_url": "https://github.com/moonsugugu/school-messenger-file-organizer-downloads/releases/tag/v1.06",
+  "sha256": "727f2997f592958455bc064c9c459082b5f6186c1b8ee331c32b10abe2f25981",
+  "notes": "딸깍정리 위젯 v1.06 · 정리 규칙 스크롤 및 Ctrl+마우스 휠 확대·축소"
 }
