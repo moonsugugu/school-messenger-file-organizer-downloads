@@ -1,8 +1,8 @@
 {
   "version": "1.06",
   "artifact_type": "installer",
-  "download_url": "https://github.com/moonsugugu/school-messenger-file-organizer-downloads/releases/download/v1.06/DesktopOrganizerWidget_Setup.exe",
+  "download_url": "https://raw.githubusercontent.com/moonsugugu/school-messenger-file-organizer-downloads/refs/heads/main/artifacts/DesktopOrganizerWidget_Setup-v1.06.exe",
   "release_url": "https://github.com/moonsugugu/school-messenger-file-organizer-downloads/releases/tag/v1.06",
-  "sha256": "47c9933fc7fe19f7e10957534888fa514999499ff33a1aa8251b088f925d4021",
+  "sha256": "b793cff7f965a02fb9bf6ecddcc18297a6ad878bbd0ade1b5e360e5295b66603",
   "notes": "딸깍정리 위젯 v1.06 · 정리 규칙 스크롤 및 Ctrl+마우스 휠 확대·축소"
 }
