@@ -1,8 +1,8 @@
 {
-  "version": "1.02",
+  "version": "1.03",
   "artifact_type": "installer",
-  "download_url": "https://github.com/moonsugugu/school-messenger-file-organizer-downloads/releases/download/organizer-v1.02/SchoolMessengerFileOrganizer_Setup-v1.02.exe",
-  "release_url": "https://github.com/moonsugugu/school-messenger-file-organizer-downloads/releases/tag/organizer-v1.02",
-  "sha256": "5f9f56aa2982dece1f21b640b6489c52c1a8a79a95b6cc4c120095922c378dd4",
-  "notes": "딸깍정리 v1.02 · 메인 정리기·위젯 실행과 업데이트 재시작 시 보안 검증 오류를 수정했습니다."
+  "download_url": "https://github.com/moonsugugu/school-messenger-file-organizer-downloads/releases/download/organizer-v1.03/SchoolMessengerFileOrganizer_Setup-v1.03.exe",
+  "release_url": "https://github.com/moonsugugu/school-messenger-file-organizer-downloads/releases/tag/organizer-v1.03",
+  "sha256": "c8f332ec3257f715ccdb9d3fa1a00f2f63b0d4a3d1d3ccb3aca55efdb549c5ad",
+  "notes": "딸깍정리 v1.03 · 구버전에서 업데이트할 때도 PyInstaller 보안 검증 오류가 나지 않도록 설치 환경을 초기화했습니다."
 }
