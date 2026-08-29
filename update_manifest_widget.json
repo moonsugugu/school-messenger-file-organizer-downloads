@@ -1,8 +1,8 @@
 {
-  "version": "1.07",
+  "version": "1.08",
   "artifact_type": "installer",
-  "download_url": "https://github.com/moonsugugu/school-messenger-file-organizer-downloads/releases/download/v1.07/DesktopOrganizerWidget_Setup-v1.07.exe",
-  "release_url": "https://github.com/moonsugugu/school-messenger-file-organizer-downloads/releases/tag/v1.07",
-  "sha256": "77bb1631e7bf3f2a36aee4b31424a451d17092f7b7de9f0677616a70fa332a4b",
-  "notes": "딸깍정리 위젯 v1.07 · 정리 규칙 세로 스크롤·Ctrl+마우스 휠 확대/축소 및 정리함 아이콘 유지"
+  "download_url": "https://github.com/moonsugugu/school-messenger-file-organizer-downloads/releases/download/v1.08/DesktopOrganizerWidget_Setup-v1.08.exe",
+  "release_url": "https://github.com/moonsugugu/school-messenger-file-organizer-downloads/releases/tag/v1.08",
+  "sha256": "2e779bfbf1a2178ef71dc562ff9845a6c6a77bc90a45858062a4cf07072eb18d",
+  "notes": "딸깍정리 위젯 v1.08 · 사용자 지정 정리함 위치 유지 및 빈 규칙 폴더 자동 생성"
 }
