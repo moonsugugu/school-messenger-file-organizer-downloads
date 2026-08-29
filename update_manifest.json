@@ -1,7 +1,8 @@
 {
-  "download_url": "https://github.com/moonsugugu/school-messenger-file-organizer-downloads/releases/download/v1.01/SchoolMessengerFileOrganizer_Setup.exe",
+  "version": "1.02",
   "artifact_type": "installer",
-  "notes": "딸깍정리 v1.01",
-  "release_url": "https://github.com/moonsugugu/school-messenger-file-organizer-downloads/releases/tag/v1.01",
-  "version": "1.01"
+  "download_url": "https://github.com/moonsugugu/school-messenger-file-organizer-downloads/releases/download/organizer-v1.02/SchoolMessengerFileOrganizer_Setup-v1.02.exe",
+  "release_url": "https://github.com/moonsugugu/school-messenger-file-organizer-downloads/releases/tag/organizer-v1.02",
+  "sha256": "5f9f56aa2982dece1f21b640b6489c52c1a8a79a95b6cc4c120095922c378dd4",
+  "notes": "딸깍정리 v1.02 · 메인 정리기·위젯 실행과 업데이트 재시작 시 보안 검증 오류를 수정했습니다."
 }
