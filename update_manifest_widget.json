@@ -1,8 +1,8 @@
 {
-  "version": "1.09",
+  "version": "1.10",
   "artifact_type": "installer",
-  "download_url": "https://github.com/moonsugugu/school-messenger-file-organizer-downloads/releases/download/v1.09/DesktopOrganizerWidget_Setup-v1.09.exe",
-  "release_url": "https://github.com/moonsugugu/school-messenger-file-organizer-downloads/releases/tag/v1.09",
-  "sha256": "35a52a835b0118b0763e9437918188e55168e6d1fb81f427d48cccc0763d4a52",
-  "notes": "딸깍정리 위젯 v1.09 · 설치 한글 표시와 정리 규칙 화면을 수정했습니다."
+  "download_url": "https://github.com/moonsugugu/school-messenger-file-organizer-downloads/releases/download/v1.10/DesktopOrganizerWidget_Setup-v1.10.exe",
+  "release_url": "https://github.com/moonsugugu/school-messenger-file-organizer-downloads/releases/tag/v1.10",
+  "sha256": "105bcb4d8de4b130d3bb88f90b5b4205d891ec005413706c179b06d9f09a582d",
+  "notes": "딸깍정리 위젯 v1.10 · 메인 정리기·업데이트 재시작 시 보안 검증 오류를 수정했습니다."
 }
