@@ -1,8 +1,8 @@
 {
-  "version": "1.12",
+  "version": "1.13",
   "artifact_type": "installer",
-  "download_url": "https://github.com/moonsugugu/school-messenger-file-organizer-downloads/releases/download/v1.12/DesktopOrganizerWidget_Setup-v1.12.exe",
-  "release_url": "https://github.com/moonsugugu/school-messenger-file-organizer-downloads/releases/tag/v1.12",
-  "sha256": "4582875f6aba29fbd9c70a1f792e4aa1ac70aa1debd2a7e1ae3edead15807704",
-  "notes": "딸깍정리 위젯 v1.12 · 기본설정에서 업데이트 확인과 위젯 삭제를 지원합니다. 삭제해도 정리함·정리된 파일은 보존됩니다."
+  "download_url": "https://github.com/moonsugugu/school-messenger-file-organizer-downloads/releases/download/v1.13/DesktopOrganizerWidget_Setup-v1.13.exe",
+  "release_url": "https://github.com/moonsugugu/school-messenger-file-organizer-downloads/releases/tag/v1.13",
+  "sha256": "894fa556d43515a391369e4311868b0262f7d1eaf99011877f4c1f3f3dd1cc82",
+  "notes": "딸깍정리 위젯 v1.13 · 기본설정에서 위젯 삭제를 지원합니다. 삭제해도 정리함·정리된 파일은 보존됩니다."
 }
