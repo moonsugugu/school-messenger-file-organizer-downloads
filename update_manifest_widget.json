@@ -1,8 +1,8 @@
 {
-  "version": "1.11",
+  "version": "1.12",
   "artifact_type": "installer",
-  "download_url": "https://github.com/moonsugugu/school-messenger-file-organizer-downloads/releases/download/v1.11/DesktopOrganizerWidget_Setup-v1.11.exe",
-  "release_url": "https://github.com/moonsugugu/school-messenger-file-organizer-downloads/releases/tag/v1.11",
-  "sha256": "b8cdeca51d5c762102349a25eabed21ac4cddbce14fd74fdfedec9f0bfb12185",
-  "notes": "딸깍정리 위젯 v1.11 · 구버전에서 업데이트할 때도 PyInstaller 보안 검증 오류가 나지 않도록 설치 환경을 초기화했습니다."
+  "download_url": "https://github.com/moonsugugu/school-messenger-file-organizer-downloads/releases/download/v1.12/DesktopOrganizerWidget_Setup-v1.12.exe",
+  "release_url": "https://github.com/moonsugugu/school-messenger-file-organizer-downloads/releases/tag/v1.12",
+  "sha256": "4582875f6aba29fbd9c70a1f792e4aa1ac70aa1debd2a7e1ae3edead15807704",
+  "notes": "딸깍정리 위젯 v1.12 · 기본설정에서 업데이트 확인과 위젯 삭제를 지원합니다. 삭제해도 정리함·정리된 파일은 보존됩니다."
 }
